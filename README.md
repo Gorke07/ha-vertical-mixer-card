@@ -6,7 +6,7 @@ entities side by side just like channel strips on a real mixer, with
 tick marks, a unity (0 dB) reference line, and per-channel accent
 colors.
 
-![preview](docs/preview.png)
+![preview](docs/preview-v0.png)
 
 > **Why?** Built originally to drive bass / treble / channel-level trims
 > on a Sony STR-DN1080 AV receiver via its companion Home Assistant
